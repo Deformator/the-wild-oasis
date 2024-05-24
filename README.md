@@ -1,8 +1,8 @@
-# React + Vite
+# This project is for pure demonstration React skills.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tech Stack: React, React Components, React Query, Supabase (back-end)
 
-Currently, two official plugins are available:
+### Credentials for a full access usually send with job application.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**UPLOAD BOOKINGS ONLY** - Please feel free to use auto upload data if you don't see any info on dashboard.
+**UPLOAD ALL** - If there is no cabins (maybe deleted by previous visitor)
